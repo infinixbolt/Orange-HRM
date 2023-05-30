@@ -20,7 +20,7 @@ describe("Recruitment functionality test", ()=>{
 
   it('Delete a vacancy', () =>{
     loginPage.login(testData.validUsername, testData.validPassword);
-    RecruitmentPage.validateDeleteAVacancy();
+    RecruitmentPage.validateDeleteAVacancy(); 
   })
 
 

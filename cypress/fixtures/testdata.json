@@ -1,0 +1,7 @@
+{
+    "validUsername" : "Admin",
+    "validPassword" : "admin123",
+    "invalidUsername" : "KBenzema@email.com",
+    "invalidPassword" : "santiago",
+    "shortPassword" : "og"
+}
